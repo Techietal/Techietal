@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lohith 👋</h1>
+<h1 align="center">Hi, I'm Silaparasetti Lohith 👋</h1>
 
 <h3 align="center">
 AI-Focused Full-Stack Developer | Enterprise Automation | Machine Learning | Research
