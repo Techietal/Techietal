@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Silaparasetti Lohith 👋</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 AI-Focused Full-Stack Developer | Enterprise Automation | Machine Learning | Research
-</h3>
+</h3> -->
 
 <p align="center">
-I build enterprise-style applications that combine backend systems, frontend workflows,
-AI-assisted automation, machine learning, and research-backed optimization.
+Full-stack developer building AI-assisted enterprise systems. Built an Order-to-Cash automation platform with multi-agent workflows. Published researcher in cloud workflow scheduling.
 </p>
 
 <p align="center">
