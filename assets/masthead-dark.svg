@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-label="The Techietal Times">
+  <defs>
+    <style>
+      .paper { fill: #24211c; }
+      .ink { fill: #ece3d0; }
+      .spot { fill: #e06a45; }
+      .serif { font-family: Georgia, 'Times New Roman', 'Playfair Display', serif; }
+      .mono { font-family: 'Courier New', ui-monospace, monospace; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="200" class="paper"/>
+  <rect x="8" y="8" width="864" height="184" fill="none" stroke="#413b30" stroke-width="1"/>
+
+  <text x="440" y="42" text-anchor="middle" class="mono spot" font-size="12" letter-spacing="6">VOL. I  ·  FULL-STACK &amp; ARTIFICIAL INTELLIGENCE  ·  PRICE: ONE STAR ★</text>
+
+  <text x="440" y="112" text-anchor="middle" class="serif ink" font-size="66" font-weight="900" letter-spacing="-1">The Techietal Times</text>
+
+  <line x1="40" y1="132" x2="840" y2="132" stroke="#ece3d0" stroke-width="3"/>
+  <line x1="40" y1="138" x2="840" y2="138" stroke="#ece3d0" stroke-width="1"/>
+
+  <text x="44" y="162" class="mono ink" font-size="12" letter-spacing="2">HYDERABAD BUREAU</text>
+  <text x="440" y="162" text-anchor="middle" class="serif ink" font-size="14" font-style="italic">"All the code that's fit to ship"</text>
+  <text x="836" y="162" text-anchor="end" class="mono ink" font-size="12" letter-spacing="2">LATE EDITION</text>
+  <line x1="40" y1="174" x2="840" y2="174" stroke="#ece3d0" stroke-width="1"/>
+</svg>
