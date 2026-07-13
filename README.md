@@ -1,178 +1,254 @@
-<!-- =========================================================
-     THE TECHIETAL TIMES  Â·  github.com/Techietal
-     Masthead swaps automatically for light / dark visitors.
-     ========================================================= -->
+<h1 align="center">Hi, I'm Silaparasetti Lohith 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/masthead-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/masthead-light.svg">
-  <img alt="The Techietal Times" src="./assets/masthead-light.svg" width="100%">
-</picture>
+<h3 align="center">
+AI-Focused Full-Stack Developer | Enterprise Automation | Machine Learning | Research
+</h3>
 
 <p align="center">
-  <em>Silaparasetti Lohith &nbsp;Â·&nbsp; AI Product Ops &amp; Full-Stack Engineer &nbsp;Â·&nbsp; Gold Medalist, IIIT Sonepat &nbsp;Â·&nbsp; Published in Scientific Reports</em>
+I build enterprise-style applications that combine backend systems, frontend workflows,
+AI-assisted automation, machine learning, and research-backed optimization.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-1c1a17?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-FastAPI-1c1a17?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/-LangGraph-1c1a17?style=flat-square&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-1c1a17?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-1c1a17?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-AI%20Workflows-b23b1e?style=flat-square&logo=openai&logoColor=white">
-  <a href="https://github.com/Techietal"><img src="https://komarev.com/ghpvc/?username=Techietal&label=Readers&color=b23b1e&style=flat-square"></a>
+  <a href="https://github.com/Techietal">
+    <img src="https://komarev.com/ghpvc/?username=Techietal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
-## ðŸ“° Front Page
+## About Me
 
-### Engineer Automates the Workflow, Then Comes for the Backlog
-> *AI-assisted platforms now handle intake, order processing, and delivery-risk triage. The spreadsheets have filed for unemployment.*
+I am an AI-focused full-stack developer with experience in building practical, business-oriented applications using **FastAPI, React, ASP.NET, SQL, Python, and Machine Learning**.
 
-An **AI product operations engineer and 2026 IT graduate** (Gold Medalist, CGPA **9.62**) has spent the year turning operational pain points into production software. Between builds, sources confirm a **73rd-place finish at the ICPC 2025 Kanpur Regionals** and a paper in **Scientific Reports**. Currently shipping AI-enabled workflows at **MAQ Software**, where a patient-intake automation cut per-patient intake time by **66.7%** and lifted clinician capacity by **40%**.
+My work focuses on:
 
-> *"I enjoy building systems that are not just functional, but structured like real enterprise-grade software."*
+* Enterprise workflow automation
+* AI-assisted business systems
+* Full-stack product development
+* ML-based decision support
+* Backend APIs and role-based systems
+* Research in workflow scheduling, cloud computing, and optimization
 
----
-
-## ðŸ—žï¸ Choose Your Dispatch
-
-<details>
-<summary><b>ðŸ“œ &nbsp;The Recruiter's Edition</b> â€” the two-minute version</summary>
-
-<br>
-
-AI product-ops-focused software engineer, **2026 B.Tech IT** from **IIIT Sonepat (Gold Medalist, 9.62 CGPA)**. Hands-on building AI-enabled workflows, backend automation, REST APIs, and database-backed systems. Currently at **MAQ Software** (Associate SWE Intern); previously **Accenture**. Microsoft-certified in **AI Agent Builder** and **Fabric Data Engineering**. Competitive programmer (ICPC Kanpur Regionals, rank 73).
-
-**â†’** [Resume](#) Â· [LinkedIn](https://www.linkedin.com/in/lohith-silaparasetti-232166260/)
-
-</details>
-
-<details>
-<summary><b>âš™ï¸ &nbsp;The Engineer's Edition</b> â€” where to start reading</summary>
-
-<br>
-
-**FastAPI + Python** on the backend, **LangGraph / LangChain / ChromaDB** for the agentic and RAG workflows, **PostgreSQL + Redis + Celery + Docker** underneath. Start with the **O2C Agent v2.0** repo for the architecture (JWT, RBAC, async jobs, Dockerized), or **Project Pulse** for LangGraph-based delivery-risk analysis. Issues and nerdy PRs warmly received.
-
-**â†’** See the Project Desk below.
-
-</details>
-
-<details>
-<summary><b>ðŸŽ² &nbsp;The Curiosity Page</b> â€” a confession</summary>
-
-<br>
-
-**GeminiNote** is the one I'm quietly proud of: an AI note system you chat with over your own uploaded documents. Embeddings, document understanding, a clean interface. Also, yes, I really did rank **73rd at ICPC Kanpur Regionals**, ask me about the problem that got away.
-
-**â†’** Go poke it in the repos.
-
-</details>
+I enjoy building systems that are not just functional, but structured like real enterprise-grade software.
 
 ---
 
-## ðŸ›ï¸ On Assignment Â· Experience
+## Flagship Project
 
-**MAQ Software** â€” *Associate Software Engineer Intern* Â· Jan 2026 â€“ Jul 2026
-Built AI-enabled **Patient Intake** automation (knowledge retrieval, issue analysis, ticket triage, escalation), cutting per-patient intake time **66.7%** and raising clinician intake capacity **40%**. Shipped maintainable backend modules with API-backed services, SQL-driven data access, and reusable service-layer logic.
+### Order-To-Cash Agent Platform
 
-**Accenture** â€” *Advanced Application Engineer Analyst Intern* Â· Jun 2025 â€“ Jul 2025
-Designed enterprise workflow use cases across 3 business-process stages: form-based capture, approval routing, validation logic, and integration-ready automation, with full technical documentation.
+An enterprise-grade **Order-to-Cash automation platform** designed with AI-assisted workflows, role-based access, customer/admin portals, fraud review, credit validation, HITL approval, dispute management, collections, invoices, and analytics.
 
----
+<p>
+  <a href="https://github.com/Techietal/Order-To-Cash-Agent">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://main.d27bczp1dlsk6u.amplifyapp.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-## ðŸ—ï¸ From the Project Desk
+**Tech Stack:** FastAPI, React, SQL, XGBoost, Isolation Forest, GLiNER, Prophet, Machine Learning
 
-**ðŸ¦ O2C Agent v2.0 â€” AI Workflow Automation Platform** &nbsp;Â·&nbsp; *Flagship*
-AI-assisted automation for customer onboarding, KYC, order processing, invoice tracking, dispute management, email intake, and human-in-the-loop escalation. **90% automated order processing** across key stages. REST APIs, PostgreSQL data models, JWT auth, RBAC endpoints, async Celery jobs, Redis background processing, Dockerized deploy.
-`Python` `FastAPI` `PostgreSQL` `Docker` `Celery` `Redis`
-[Source](https://github.com/Techietal/Order-To-Cash-Agent) Â· [Live Demo](https://main.d27bczp1dlsk6u.amplifyapp.com/)
+**Key Highlights:**
 
-**ðŸ“Š Project Pulse â€” AI Project Health & Delivery-Risk Platform**
-Tested on **50+ Azure DevOps work items**, consolidating PRs, pipeline activity, sprint progress, and blockers into a Streamlit dashboard. ChromaDB semantic retrieval + LangGraph analysis to detect risks, summarize blockers, and generate daily pulse reports. 3-level LOW/MEDIUM/HIGH risk scoring.
-`Python` `FastAPI` `LangGraph` `ChromaDB` `Azure DevOps API` `Streamlit`
-[Source](https://github.com/Techietal/Project-Pulse)
-
-**ðŸ“ GeminiNote â€” Chat-Over-Your-Documents**
-An AI note and document-interaction system: embeddings, document understanding, and chat over uploaded content.
-`GenAI` `Embeddings` `RAG`
-[Source](https://github.com/Techietal/GeminiNote)
-
-**â¤ï¸ Effective Heart Disease Prediction**
-Hybrid ensemble of XGBoost, SVM, and Random Forest for clinical prediction, focused on accuracy and comparative model evaluation.
-`Python` `XGBoost` `SVM` `Random Forest`
-[Source](https://github.com/Techietal/Effective-Heart-Disease-prediction-using-hybrid-machine-learning-techniques)
-
-**ðŸ§¾ Expense Tracker**
-An ASP.NET Core MVC expense manager with categories, monthly summaries, and Chart.js visualizations.
-`ASP.NET Core` `EF Core` `SQLite` `Bootstrap 5`
-[Source](https://github.com/Techietal/Expense-Tracker) Â· [Live Demo](https://expense-tracker-latest-1n3g.onrender.com/)
-
-<details>
-<summary><b>More from the archives</b> â€” TravelUp &amp; Portfolio</summary>
-
-<br>
-
-**âœˆï¸ TravelUp** â€” travel-tech web app: product-oriented frontend/backend and user-centered design.
-[Source](https://github.com/Techietal/TravelUp)
-
-**ðŸŽ¨ My Portfolio** â€” personal site showcasing skills, projects, and technical work.
-[Source](https://github.com/Techietal/My-Portfolio) Â· [Live Site](https://my-portfolio-liart-nine-63.vercel.app/)
-
-</details>
+* Built end-to-end O2C workflows across customer onboarding, order processing, disputes, collections, and invoice visibility
+* Implemented role-based access for Admins, Controllers, Collections Analysts, Dispute Managers, and Customers
+* Integrated AI-assisted fraud scoring, credit validation, risk review, dispute summaries, and HITL decision flows
+* Designed enterprise-style backend APIs, portal workflows, seeded data, dashboards, and automation-ready business logic
 
 ---
 
-## ðŸ“– Research & Credentials
+## Featured Projects
 
-- ðŸ† **Energy-constrained workflow scheduling for DVFS-enabled heterogeneous systems in cloud computing** â€” *Scientific Reports (Springer Nature), 2026.* Energy-aware scheduling, makespan optimization on heterogeneous cloud systems.
-- ðŸŽ“ **Microsoft Certified:** AI Agent Builder Associate Â· Fabric Data Engineer Associate
+### Expense Tracker
+
+A full-stack **ASP.NET Core MVC expense management application** for tracking personal expenses, managing categories, viewing monthly summaries, and analyzing spending patterns through charts and filters.
+
+<p>
+  <a href="https://github.com/Techietal/Expense-Tracker">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://expense-tracker-latest-1n3g.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Project-00C853?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+</p>
+
+**Tech Stack:** ASP.NET Core MVC, SQLite, EF Core, Bootstrap 5, Chart.js, jQuery Validation
+
+**Key Highlights:**
+
+* Built CRUD workflows for adding, editing, deleting, and categorizing expenses
+* Designed dashboard-level financial visibility with monthly totals and visual charts
+* Added category and date-range filters for better expense analysis
+* Used EF Core and SQLite for structured data handling in a clean MVC architecture
 
 ---
 
-## ðŸ¥‡ The Society Pages Â· Achievements
+### Project Pulse
 
-- ðŸ… **Gold Medalist**, Information Technology, Batch 2022â€“2026 â€” IIIT Sonepat (**CGPA 9.62**)
-- ðŸ§© **ICPC 2025 Kanpur Regionals â€” Rank 73** Â· 396th ICPC 2025 Preliminary Â· 431st ICPC 2024 Preliminary
+A project and productivity-oriented application focused on organizing work, tracking progress, and improving visibility across tasks and project workflows.
 
----
+<p>
+  <a href="https://github.com/Techietal/Project-Pulse">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## ðŸ§° The Toolshed
-
-**AI & Workflows** &nbsp; LangGraph Â· LangChain Â· RAG Â· Semantic Retrieval Â· ChromaDB Â· AI Workflow Automation
-**Languages** &nbsp; Python Â· C++ Â· SQL Â· JavaScript Â· Java
-**Backend & APIs** &nbsp; FastAPI Â· REST Â· Node.js Â· Swagger/OpenAPI Â· JWT Â· RBAC
-**Databases** &nbsp; PostgreSQL Â· SQLite Â· MySQL Â· MongoDB Â· Redis Â· ChromaDB
-**Cloud & DevOps** &nbsp; Docker Â· Docker Compose Â· Git Â· GitHub Actions Â· CI/CD Â· Azure Â· AWS
-**Frontend & Viz** &nbsp; React Â· Streamlit Â· Bootstrap 5 Â· HTML Â· CSS
+**Focus Areas:** Full-stack development, workflow management, productivity systems
 
 ---
 
-## ðŸ The Contribution Almanac
+### GeminiNote
 
-<!-- Generated nightly by GitHub Actions (see .github/workflows/snake.yml). -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techietal/Techietal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techietal/Techietal/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Techietal/Techietal/output/github-contribution-grid-snake.svg">
-</picture>
+An AI-powered note and document interaction system inspired by intelligent document assistants.
+
+<p>
+  <a href="https://github.com/Techietal/GeminiNote">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Focus Areas:** Generative AI, document understanding, embeddings, chat over uploaded content
+
+---
+
+### Effective Heart Disease Prediction
+
+A machine learning project focused on heart disease prediction using hybrid ML techniques and comparative model evaluation.
+
+<p>
+  <a href="https://github.com/Techietal/Effective-Heart-Disease-prediction-using-hybrid-machine-learning-techniques">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Tech Stack:** Python, XGBoost, SVM, Random Forest, Machine Learning
+
+**Key Highlights:**
+
+* Compared multiple machine learning models for clinical prediction
+* Used hybrid and ensemble-based approaches to improve reliability
+* Focused on accuracy, model comparison, and healthcare-oriented decision support
+
+---
+
+### TravelUp
+
+A travel-focused web application demonstrating product-oriented frontend/backend development and user-centered application design.
+
+<p>
+  <a href="https://github.com/Techietal/TravelUp">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Focus Areas:** Web development, UI workflows, travel-tech application logic
+
+---
+
+### My Portfolio
+
+A personal portfolio website designed to showcase skills, projects, experience, and technical work in a clean web format.
+
+<p>
+  <a href="https://github.com/Techietal/My-Portfolio">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://my-portfolio-liart-nine-63.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+**Focus Areas:** Personal branding, frontend development, portfolio design
+
+---
+
+## Research & Publications
+
+I have also worked on research related to cloud computing, heterogeneous systems, scheduling algorithms, and optimization.
+
+### Energy-constrained workflow scheduling for DVFS-enabled heterogeneous systems in cloud computing environments
+
+Published in **Scientific Reports**, 2026.
+
+**Research Focus:**
+Energy-aware workflow scheduling, heterogeneous cloud systems, DVFS-enabled processors, scientific workflows, makespan optimization, and energy constraints.
+
+---
+
+### Scheduling Algorithms in Heterogeneous Cloud Computing Systems
+
+Research work focused on workflow scheduling, heterogeneous computing, energy-aware execution, and performance comparison across scheduling heuristics.
+
+**Research Focus:**
+Scientific workflow scheduling, cloud computing, heuristic algorithms, energy efficiency, makespan reduction, and benchmark-driven evaluation.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,html,css" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,dotnet,nodejs,git,github,docker,vscode,visualstudio" />
+</p>
+
+### AI / ML / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+**Additional Tools & Areas:**
+Machine Learning, XGBoost, Isolation Forest, Prophet, GLiNER, Power BI, REST APIs, SQL databases, dashboarding, analytics, and enterprise workflow systems.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Techietal&show_icons=true&hide_border=true&title_color=b23b1e&icon_color=b23b1e&text_color=555&bg_color=f2ede0">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Techietal&hide_border=true&fire=b23b1e&currStreakLabel=b23b1e&ring=b23b1e&sideNums=555&currStreakNum=555&background=f2ede0">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Techietal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techietal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## â˜Žï¸ Connect With the Editor
+## Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Techietal"><img src="https://img.shields.io/badge/GitHub-1c1a17?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lohith-silaparasetti-232166260/"><img src="https://img.shields.io/badge/LinkedIn-1c1a17?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lohith.its@gmail.com"><img src="https://img.shields.io/badge/Email-b23b1e?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="assets/github-snake.svg" />
+  </picture>
 </p>
 
-<p align="center"><sub><i>This edition was NOT typeset by my automation agents. That headline is scheduled for a future release.</i></sub></p>
-<p align="center"><sub>Printed nightly on the <code>main</code> branch Â· All contributions reserved</sub></p>
+---
+
+## Current Focus
+
+* Building AI-assisted enterprise applications
+* Improving full-stack backend/frontend architecture
+* Working with ML-powered decision support systems
+* Strengthening production-style project documentation
+* Exploring cloud, scheduling, optimization, and agentic workflows
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Techietal">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/lohith-silaparasetti-232166260/">LinkedIn</a>
+  ·
+  <a href="mailto:lohith.its@gmail.com">Email</a>
+</p>
